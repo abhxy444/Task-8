@@ -78,6 +78,6 @@ All screenshots are included in the file:
 - Does not ensure full anonymity
 - May not work with all websites
 
-- -## NOTE - this png file is not working due to some reason so please adjust
+  ## NOTE - this png file is not working due to some reason so please adjust
 
 ---
